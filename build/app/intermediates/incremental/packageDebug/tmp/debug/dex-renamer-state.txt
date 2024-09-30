@@ -1,0 +1,4 @@
+#Mon Apr 22 11:06:37 EAT 2024
+base.0=D\:\\PROJECTS\\bookingtickets\\bookingtickets\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,11 @@
+com.example.bookingtickets.app-core-1.6.0-0 C:\Users\mlebbi\.gradle\caches\transforms-4\557e3692a0464bcf8fd73ab358731337\transformed\core-1.6.0\res
+com.example.bookingtickets.app-jetified-annotation-experimental-1.1.0-1 C:\Users\mlebbi\.gradle\caches\transforms-4\5e6c1fa6dfec6fcb81cc25f3c8a4c227\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.bookingtickets.app-jetified-window-java-1.0.0-beta04-2 C:\Users\mlebbi\.gradle\caches\transforms-4\687b60e5e2fdcdb6a42e91c0c8c79569\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.bookingtickets.app-jetified-window-1.0.0-beta04-3 C:\Users\mlebbi\.gradle\caches\transforms-4\acd88313dbe0941bc7a922da167d7ac7\transformed\jetified-window-1.0.0-beta04\res
+com.example.bookingtickets.app-debug-4 D:\PROJECTS\bookingtickets\bookingtickets\android\app\src\debug\res
+com.example.bookingtickets.app-main-5 D:\PROJECTS\bookingtickets\bookingtickets\android\app\src\main\res
+com.example.bookingtickets.app-pngs-6 D:\PROJECTS\bookingtickets\bookingtickets\build\app\generated\res\pngs\debug
+com.example.bookingtickets.app-resValues-7 D:\PROJECTS\bookingtickets\bookingtickets\build\app\generated\res\resValues\debug
+com.example.bookingtickets.app-mergeDebugResources-8 D:\PROJECTS\bookingtickets\bookingtickets\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.bookingtickets.app-mergeDebugResources-9 D:\PROJECTS\bookingtickets\bookingtickets\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.bookingtickets.app-debug-10 D:\PROJECTS\bookingtickets\bookingtickets\build\app\intermediates\merged_res\debug\mergeDebugResources
